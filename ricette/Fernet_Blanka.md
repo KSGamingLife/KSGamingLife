@@ -8,6 +8,8 @@ Questo progetto nasce da un'idea di Kenobit, fondatore insieme a
 Bisboch della collettivo Kenobisboch Productions, le cui iniziative
 gravitano intorno al canale Twitch https://www.twitch.tv/kenobisboch
 
+La ricetta è stata ideata e sviluppata da Stilgar di KSGamingLife, il canale Twitch di K&S: https://www.twitch.tv/ksgaminglife
+
 Il Fernet Blanka si realizza secondo una ricetta che intendiamo
 mettere a disposizione di chi voglia riprodurre l'amaro, o lo voglia
 modificare.
