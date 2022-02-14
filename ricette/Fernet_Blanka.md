@@ -19,7 +19,7 @@ Commons - Attribute-NonCommercial 4.0 International (CC BY-NC
 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 La formula è pertanto modificabile, fin tanto che vengano citati come
-autori KSGamingLife e Kenobisboch Production.
+autori KSGamingLife e Kenobisboch Productions.
 
 La ricetta sviluppata parte dal presupposto di creare ovviamente
 qualcosa di buono, ma la cui scelta degli ingredienti sia motivata e
