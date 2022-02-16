@@ -21,6 +21,8 @@ Commons - Attribute-NonCommercial 4.0 International (CC BY-NC
 La formula è pertanto modificabile, fin tanto che vengano citati come
 autori KSGamingLife e Kenobisboch Productions.
 
+L'etichetta, scaricabile all'interno di questo repository, è stata realizzata da Luca Font (https://www.instagram.com/lucafont/)
+
 La ricetta sviluppata parte dal presupposto di creare ovviamente
 qualcosa di buono, ma la cui scelta degli ingredienti sia motivata e
 coerente col personaggio a cui l'amaro si ispira.
