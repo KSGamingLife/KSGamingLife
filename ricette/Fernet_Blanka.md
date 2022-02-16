@@ -5,7 +5,7 @@ lottatore brasiliano della celebre serie di videogiochi di Street
 Fighter.
 
 Questo progetto nasce da un'idea di Kenobit, fondatore insieme a
-Bisboch della collettivo Kenobisboch Productions, le cui iniziative
+Bisboch e Exa_Starless del collettivo Kenobisboch Productions, le cui iniziative
 gravitano intorno al canale Twitch https://www.twitch.tv/kenobisboch
 
 La ricetta è stata ideata e sviluppata da Stilgar di KSGamingLife, il canale Twitch di K&S: https://www.twitch.tv/ksgaminglife
