@@ -53,6 +53,7 @@ Fernet, ma anche esprimere riconoscimento e amore per i profumi della
 campagna Italiana.
 
 La ricetta del Fernet Blanka si riferisce a una dose per 2 litri di amaro.
+Tutti gli ingredienti si intendono come essiccati. Sono tranquillamente acquistabili in qualsiasi erboristeria un minimo fornita.
 
 Ingredienti:
 
@@ -61,11 +62,11 @@ Ingredienti:
 * Salvia
 * Chiodi di garofano
 * Alloro
-* Genziana
+* Genziana (radice)
 * Santoreggio
 * Semi di anice
 * Rabarbaro
-* Ginepro
+* Ginepro (bacche)
 * Tè Earl Grey
 * Rosmarino
 * Semi di finocchio
