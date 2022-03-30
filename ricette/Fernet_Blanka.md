@@ -72,8 +72,9 @@ Ingredienti:
 * Semi di finocchio
 * Melissa
 
-Tutti gli ingredienti si intendono in quantità di 20 grammi ciascuna,
+Tutti gli ingredienti si intendono in quantità di 15 grammi ciascuna,
 in infusione in 1 litro di alcol.
+Il contenitore deve essere sigillato.
 
 Dopo una settimana, occorre filtrare l'infuso e cambiare quindi il
 contenitore. Si consiglia di usare filtri da caffè per avere il minimo
