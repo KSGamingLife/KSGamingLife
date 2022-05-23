@@ -22,34 +22,22 @@ SONO STATI INFATTI REALIZZATI DUE BATCH DI ERBE AROMATICHE COSÌ COMPOSTI:
 Batch 1 - erbaceo
 
 Scorza d'arancia
-
 Liquirizia
-
 Anice
-
 Menta
-
 Ginepro
-
 Rodiola
-
 Salvia
 
 
 Batch 2 - floreale
 
 Scorza d'arancia
-
 Scorza di limone
-
 Liquirizia
-
 Menta
-
 Rodiola
-
 Boccioli di rosa
-
 Earl grey
 
 
