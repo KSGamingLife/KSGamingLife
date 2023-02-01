@@ -81,13 +81,17 @@ contenitore. Si consiglia di usare filtri da caffè per avere il minimo
 residuo possibile.
 
 Nel nuovo contenitore più capiente, diluire con mezzo litro d'acqua e
-mezzo litro di sciroppo di zucchero muscovado.
+dello sciroppo di zucchero muscovado.
 
 Lo sciroppo di zucchero muscovado si prepara realizzando una soluzione
 satura di zucchero muscovada in acqua.  Si consiglia di portare a
 ebollizione mezzo litro d'acqua e aggiungere zucchero fin tanto che è
-possibile scioglierlo.  Il risultato sarà una sostanza viscosa, molto
+possibile scioglierlo. Il risultato sarà una sostanza viscosa, molto
 dolce, dal sapore maltato.
+
+Lo sciroppo di zucchero muscovado può essere aggiunto tutto oppure in
+parte, a seconda di quanto volete che sia dolce e denso il risultato
+finale.
 
 Dopo un'ulteriore settimana, l'amaro è pronto e può essere
 imbottigliato. Si consiglia un ulteriore passaggio attraverso la carta
